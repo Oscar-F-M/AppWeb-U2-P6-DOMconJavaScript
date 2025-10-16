@@ -1,0 +1,9 @@
+.mensaje-correcto{
+    color: rgb(0, 106, 0);
+    background-color: rgb(134, 255, 134);
+}
+.mensaje-error{
+    background-color: rgb(252, 90, 90);
+    color: rgb(157, 2, 2);
+}
+
